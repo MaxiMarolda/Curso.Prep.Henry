@@ -1,13 +1,30 @@
+body {
+    background: linear-gradient(-45deg, #9cc1eb, #283f69);
+    margin: 0;
+    padding: 0;
+}
 h1 {color: limegreen;}
-img {width: 400px;}
+img {
+    width: 400px;
+    align-content: center;
+}
 #thirdDiv {
-    height: 600px;
-    width: 500px;
-    background-color: antiquewhite;
+    height: 900px;
+    width: 550px;
+    background-color: greenyellow;
     padding: 50px;
     border: 10px red;
+    align-content: center;
+    margin: 10px auto;
+    padding-bottom: 50px;
 }
 #spanid {
     font-size: 18px;
     margin: 50px;
+}
+ul {
+    text-align: center;
+}
+.divclass {
+    text-align: center;
 }
