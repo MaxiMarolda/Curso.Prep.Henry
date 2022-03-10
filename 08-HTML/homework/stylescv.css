@@ -1,0 +1,20 @@
+h1 {
+    color: maroon;
+    font-size: 25px;
+    text-align: center;
+    text-underline-position: auto;
+}
+h3 {
+    height: 6px;
+}
+h2 {
+    color:darkgoldenrod;
+
+}
+.puestos {
+    font-weight: bold;
+    
+}
+.Descripción_Personal {
+    padding-top: 10px;
+}
