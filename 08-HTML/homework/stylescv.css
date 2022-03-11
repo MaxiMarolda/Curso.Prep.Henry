@@ -18,3 +18,14 @@ h2 {
 .Descripción_Personal {
     padding-top: 10px;
 }
+body {
+    display: flex;
+    flex-direction: column;
+}
+.MiFoto {
+    display: flex;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+}
